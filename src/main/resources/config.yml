@@ -1,0 +1,13 @@
+queue-name: "PORTAL"
+permissions-plugin: "DAWN"
+join-message:
+  - '&7&m--------------------------------'
+  - ' '
+  - '&fWelcome to the &3&lInsidious Network&f, &6&l%player%&f!'
+  - ' '
+  - '&7* &3&lForums: &fwww.insidious.cc'
+  - '&7* &3&lTwitter: &ftwitter.com/InsidiousCC'
+  - '&7* &3&lTeamSpeak: &fts.insidious.cc'
+  - '&7* &3&lStore: &fstore.insidious.cc'
+  - ' '
+  - '&7&m--------------------------------'

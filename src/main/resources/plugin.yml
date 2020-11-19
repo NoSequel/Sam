@@ -1,0 +1,7 @@
+name: Sam
+author: Scifi9902
+version: 1.0-SNAPSHOT
+description: Hub Core designed for Insidious Network
+main: io.github.scifi.sam.Sam
+depend: [PlaceholderAPI]
+softdepend: [Vault,Dawn]

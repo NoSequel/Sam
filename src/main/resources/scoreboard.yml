@@ -1,0 +1,11 @@
+scoreboard-title: "&3&lInsidious &7⎟ &fHub"
+scoreboard-lines:
+  - '&8&m--------------------------------'
+  - '&3&lOnline'
+  - '&f%bungee_total%'
+  - ' '
+  - '&3&lRank'
+  - '&f%rank%'
+  - ' '
+  - '&7insidious.cc'
+  - '&8&m--------------------------------'

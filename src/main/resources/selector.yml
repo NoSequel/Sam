@@ -1,0 +1,29 @@
+selector-title: "&3Server Selector"
+selector-lore:
+  - '&3Right-Click to open a list of all our servers.'
+selector-type: NETHER_STAR
+selector-amount: 1
+selector-size: 27
+
+fill-type: STAINED_GLASS_PANE
+fill-data: 0
+fill-amount: 1
+
+servers:
+  hcf:
+    amount: 1
+    slot: 11
+    queue: "hcf"
+    type: DIAMOND_SWORD
+    name: "&3&lTeams &fHCF"
+    lore:
+      - "&7&m--------------------"
+      - "&3Status: &f%pinger_isonline_127.0.0.1:25566%"
+      - "&3Online: &f%bungee_hcf%/&f%pinger_max_127.0.0.1:25566%"
+      - " "
+      - "&3Features"
+      - "&3- &f5 Man Factions"
+      - "&3- &fCustom Enchants"
+      - "&3- &fOP Styled HCF"
+      - "&3- &f1 Ally"
+      - "&7&m--------------------"
